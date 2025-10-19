@@ -1,2 +1,2 @@
-hii this is just an exercise about filter
-im still trying
+hi
+this is a read me made for the shell i/o redirection 
